@@ -1,0 +1,11 @@
+main: cc.imcanada.creeper.Aawman
+name: Creeper-aw-man
+version: 1.0.0
+api-version: 1.13
+author: imcanada
+commands:
+  creeper:
+   description: Displays plugin info
+   permission: creeper.info
+   permission-message: You do not have permission!
+   usage: /<command>
